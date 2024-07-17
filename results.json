@@ -1,0 +1,44 @@
+[
+    {
+        "path": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir1",
+        "parent": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir2",
+        "parent": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\filemain_1",
+        "parent": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "path": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\filemain_2",
+        "parent": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "path": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir2\\dir3",
+        "parent": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir2",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "path": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir2\\file2_1",
+        "parent": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir2",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "path": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir2\\dir3\\file3_1",
+        "parent": "G:\\_Disk\\gb.ru\\Разработчик - DataEngineer\\Погружение в Python\\HW8\\maindir\\dir2\\dir3",
+        "type": "file",
+        "size": 0
+    }
+]
